@@ -8,5 +8,4 @@ stats.json
 npm-debug.log
 .idea
 *.iml
-dist/
 build/
